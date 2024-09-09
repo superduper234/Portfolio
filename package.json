@@ -18,7 +18,9 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -b master -d build",
+    "start": "react-scripts start",
+    "build": "react-scripts build"
   },
   "eslintConfig": {
     "extends": [
@@ -44,5 +46,5 @@
     "postcss": "^8.4.16",
     "tailwindcss": "^3.1.8"
   },
-  "homepage": "https://<superduper234>.github.io/<Website2>"
+  "homepage": "https://<superduper234>.github.io/<portfolio-butterCMS>"
 }
