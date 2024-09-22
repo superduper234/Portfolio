@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/superduper234/Portfolio.git/static/css/main.3ae25bc7.css",
+    "main.js": "/superduper234/Portfolio.git/static/js/main.5badda39.js",
+    "static/media/me1.png": "/superduper234/Portfolio.git/static/media/me1.bbd7913d4b9748a5eb91.png",
+    "static/media/code2.png": "/superduper234/Portfolio.git/static/media/code2.991831d0a626b3b8e8b3.png",
+    "index.html": "/superduper234/Portfolio.git/index.html",
+    "main.3ae25bc7.css.map": "/superduper234/Portfolio.git/static/css/main.3ae25bc7.css.map",
+    "main.5badda39.js.map": "/superduper234/Portfolio.git/static/js/main.5badda39.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ae25bc7.css",
+    "static/js/main.5badda39.js"
+  ]
+}
